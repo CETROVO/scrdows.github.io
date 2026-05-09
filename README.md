@@ -21,14 +21,9 @@ Visit the official Scrdows website: [https://scrdows.github.io](https://scrdows.
 
 ## 🚀 Getting Started
 
-### Play online (no download)
-1. Go to [https://scrdows.github.io](https://scrdows.github.io)
-2. Click the green flag and wait for the desktop to load
-3. Explore folders, double‑click icons, and enjoy the parody!
-
 ### Run locally (with Scratch or TurboWarp)
-- Download the latest `.sb3` file from the [Releases](https://github.com/scrdows/scrdows.github.io/releases) section
-- Open with Scratch 3.0 or TurboWarp (recommended for better performance)
+- Download the latest `.sb3` file from the [Releases](https://github.com/CETROVO/scrdows.github.io/releases) section
+- Open TurboWarp
 
 ## 🛠️ Build & Contribute
 
